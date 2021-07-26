@@ -3,6 +3,9 @@
 
 <!-- This is a simple php calculator -->
 
+<?php
+   # calculator
+?>
 
 <!DOCTYPE html>
 <html lang="en">
