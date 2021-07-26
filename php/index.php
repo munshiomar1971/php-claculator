@@ -14,11 +14,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
-    <title>Omar's Website</title>
+    <title>Basic Calculator</title>
 </head>
 <body background-Color="Blue">
     <br>
-    <h1 align="center">Omar's Calculator</h1>
+    <h1 align="center">Calculator</h1>
     <br><br><br>
     <p align="center">How to use: Enter your numbers and choose to add or subtract</p>
     <br><br><br><br><br><br><br><br><br><br>

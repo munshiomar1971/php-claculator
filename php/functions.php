@@ -1,6 +1,8 @@
 <?php
+    // this is a function in php 
     function myCalculator($num01, $oper, $num02) {
 
+        // this variable is not defined bc it is the user input combined
         $sum;
         switch ($oper) {
             case "add":
