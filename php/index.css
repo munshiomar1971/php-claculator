@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(192, 224, 235);
+}
+
+section{
+    color: white;
+    background-color: white;
+}
